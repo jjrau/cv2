@@ -5,10 +5,11 @@ body {
 hr {
   border-style: none;
   border-top: 5px dotted GhostWhite;
+  border-color: DarkBlue;
   border-width: 5px;
   height: 0px;
   width: 3%;
 }
-h1 {color: DarkCyan}
+h1 {color: DarkBlue}
 h2 {color: DarkCyan}
 h3 {color: DarkCyan}
